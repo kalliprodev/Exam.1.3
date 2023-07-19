@@ -1,0 +1,16 @@
+@import "../../App.scss";
+
+footer {
+    width: 100%;
+    padding: 3rem;
+  background-color: rgb(189, 188, 188);
+text-align: center;
+  p {
+    color: gray;
+font-size: 1.4rem;
+text-align: center;
+    a {
+      color: rgb(249, 124, 7);
+    }
+  }
+}
